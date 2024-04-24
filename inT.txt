@@ -1,1 +1,0 @@
-SUCCESS\ngameID: 1\ndealer:\n{'user': 'tanya', 'address': '4', 'port': '4'}
