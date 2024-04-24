@@ -1,5 +1,0 @@
-register bingus 1 1
-register bongo 2 2
-register lilly 3 3
-register tanya 4 4
-start game tanya 3
